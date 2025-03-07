@@ -11,9 +11,9 @@
 
 - 📫 How to reach me: **Phone Number: +91 6399577058 | Gmail: stl.1547vipul@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1VwcdCEeoSCOurmi0om2B-9fNGrq_qWFv/view?usp=drivesdk)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1QNk9G25UDLsHvVdRNyZrS5K4ugs0WdWo/view?usp=sharing)
 
-- ⚡ **Fun Fact**: Did you know that I once coded an entire AI model while sipping on a cup of coffee and listening to lo-fi beats? Sometimes, the best ideas come from the coziest of moments! ☕🎶
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
