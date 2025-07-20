@@ -8,7 +8,7 @@
 
 ### 🧠 About Me:
 
-🎯 AI Operations Engineer skilled in deploying and optimizing large-scale AI pipelines. Passionate about transforming real-world challenges into innovative, intelligent solutions using Generative AI and Data Science.
+🎯 AI Operations Engineer skilled in optimizing large-scale AI pipelines. Passionate about transforming real-world challenges into innovative, intelligent solutions using Generative AI and Data Science.
 
 🔬 Currently exploring the frontiers of:
 - 🌟 GenAI & LLMs (LangChain, RAG, Vector DBs)
