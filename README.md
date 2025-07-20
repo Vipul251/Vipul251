@@ -14,7 +14,7 @@
 - 🌟 GenAI & LLMs (LangChain, RAG, Vector DBs)
 - ⚙️ MLOps & FastAPI-based AI API Deployments
 - 📊 Data-Driven Decision Making
-- 🧠 AI in Healthcare and Resume Intelligence
+- 🧠 AI in Healthcare and Resume Intelligence(HR Tech)
 
 ---
 
