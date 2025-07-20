@@ -1,32 +1,102 @@
-<h1 align="center">Welcome! I'm Vipul Bhatt, AI Operation Engineer and Creative Mind</h1>
-<p align="left">
+<h1 align="center">🚀 Hey there, I'm <span style="color:#00BFFF">Vipul Bhatt</span> — AI Operations Engineer & Creative Technologist 👨‍💻</h1>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=vipul251&label=Profile%20views&color=0e75b6&style=flat" alt="vipul251" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vipul251" alt="vipul251" />
-  </a>
-</p>
+---
 
-- 📫 How to reach me: **Phone Number: +91 6399577058 | Gmail: stl.1547vipul@gmail.com**
+### 🧠 About Me:
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1QNk9G25UDLsHvVdRNyZrS5K4ugs0WdWo/view?usp=sharing)
+🎯 AI Operations Engineer skilled in deploying and optimizing large-scale AI pipelines. Passionate about transforming real-world challenges into innovative, intelligent solutions using Generative AI and Data Science.
 
--
+🔬 Currently exploring the frontiers of:
+- 🌟 GenAI & LLMs (LangChain, RAG, Vector DBs)
+- ⚙️ MLOps & FastAPI-based AI API Deployments
+- 📊 Data-Driven Decision Making
+- 🧠 AI in Healthcare and Resume Intelligence
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🤝 Let's Collaborate:
+
+- 🤖 Working on Generative AI & Autonomous Agents
+- 🤝 Open to AI + Data Science project collaborations
+- 📚 Learning daily from failures & feedback
+- 💬 Ask me anything about AI, ML, Prompt Engineering
+
+---
+
+### 📬 Contact Me:
+
+📱 **+91 6399577058**  
+📧 **contact.vipulbhatt@gmail.com**  
+📄 [Resume →](https://drive.google.com/file/d/1QNk9G25UDLsHvVdRNyZrS5K4ugs0WdWo/view?usp=sharing)
+
+---
+
+### 🌐 Find Me Online:
+
 <p align="left">
   <a href="https://linkedin.com/in/vipul bhatt" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vipul Bhatt" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://instagram.com/vipul_.bhatt" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vipul_.bhatt" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
   <a href="https://twitter.com/vipul_25" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vipul_25" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
   </a>
   <a href="https://kaggle.com/vipulllll" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vipulllll" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
   </a>
 </p>
+
+---
+
+### 🛠 Tech Stack I Work With:
+
+#### 👨‍💻 Programming & API:
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/SQLite3-003B57?style=flat&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+</p>
+
+#### 🧠 AI / ML / Data Science:
+<p>
+  <img src="https://img.shields.io/badge/LLM-800080?style=flat"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+</p>
+
+#### 🔮 GenAI & LLM Tools:
+<p>
+  <img src="https://img.shields.io/badge/LangChain-blueviolet?style=flat"/>
+  <img src="https://img.shields.io/badge/FAISS-0099cc?style=flat"/>
+  <img src="https://img.shields.io/badge/n8n-1F72C0?style=flat&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Langflow-9654A4?style=flat"/>
+</p>
+
+#### 🛠 DevOps / Tools:
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vipul251&theme=dracula&row=1&column=7" alt="trophy" />
+  </a>
+</p>
+
+---
+
+> 🚀 _"I don’t just code — I build intelligent experiences."_  
+> — *Vipul Bhatt*
