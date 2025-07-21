@@ -58,37 +58,7 @@
 ### 🛠 Tech Stack I Work With:
 
 #### 👨‍💻 Programming & API:
-<p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/SQLite3-003B57?style=flat&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white"/>
-</p>
-
-#### 🧠 AI / ML / Data Science:
-<p>
-  <img src="https://img.shields.io/badge/LLM-800080?style=flat"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-</p>
-
-#### 🔮 GenAI & LLM Tools:
-<p>
-  <img src="https://img.shields.io/badge/LangChain-blueviolet?style=flat"/>
-  <img src="https://img.shields.io/badge/FAISS-0099cc?style=flat"/>
-  <img src="https://img.shields.io/badge/n8n-1F72C0?style=flat&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Langflow-9654A4?style=flat"/>
-</p>
-
-#### 🛠 DevOps / Tools:
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-</p>
-
+<p> <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite3-003B57?style=flat&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/LLM-800080?style=flat"/> <img src="https://img.shields.io/badge/LangChain-blueviolet?style=flat"/> <img src="https://img.shields.io/badge/Langflow-9654A4?style=flat"/> <img src="https://img.shields.io/badge/FAISS-0099cc?style=flat"/> <img src="https://img.shields.io/badge/LangGraph-663399?style=flat"/> <img src="https://img.shields.io/badge/CrewAI-FF7F50?style=flat"/> <img src="https://img.shields.io/badge/n8n-1F72C0?style=flat&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> </p>
 ---
 
 ### 📊 GitHub Stats:
