@@ -20,7 +20,7 @@
 
 ### 🤝 Let's Collaborate:
 
-- 🤖 Working on Generative AI & Autonomous Agents
+- 🤖 Working on Generative AI & Autonomous Agents (AI Agents)
 - 🔭 I'm Currently Working on Gen AI Use Cases
 - 🤝 Open to AI + Data Science project collaborations
 - 📚 Learning daily from failures & feedback
