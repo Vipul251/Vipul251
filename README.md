@@ -32,7 +32,7 @@
 
 📱 **+91 6399577058**  
 📧 **contact.vipulbhatt@gmail.com**  
-📄 [Resume →](https://drive.google.com/file/d/1czIbQNamZsj6FDuh7g8UtGi0vwmaI9mw/view?usp=sharing)
+📄 [Resume →](https://drive.google.com/file/d/1n9PNaTuFXK8PQgjZhrOjVlWmVqjT-1Uo/view?usp=sharing)
 
 ---
 
