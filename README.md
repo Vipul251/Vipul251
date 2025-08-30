@@ -65,7 +65,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> 
   <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black"/> 
@@ -81,6 +80,8 @@
   <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Chainlit-4D4DFF?style=flat&logo=chainlit&logoColor=white"/> 
   <img src="https://img.shields.io/badge/DSPy-FF1493?style=flat&logo=data&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+
 </p>
 
 
