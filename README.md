@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hey there, I'm <span style="color:#00BFFF">Vipul Bhatt </span> — </h1>
+<h1 align="center">🚀 Hey there, I'm <span style="color:#00BFFF">Vipul Bhatt - AI Engineer </span> — </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vipul251&label=Profile%20views&color=0e75b6&style=flat" alt="vipul251" />
@@ -14,19 +14,15 @@
 🔬 Currently exploring the frontiers of:
 - 🌟 GenAI & LLMs (LangChain, RAG, Vector DBs)
 - ⚙️ MLOps & FastAPI-based AI API Deployments
-- 📊 Data-Driven Decision Making
-- 🧠 AI in Healthcare and Resume Intelligence(HR Tech)
+- 📊 Data-Driven Decision Making for business and research application
 
 ---
-
 ### 🤝 Let's Collaborate:
-
 - 🤖 Working on Generative AI & Autonomous Agents (AI Agents)
 - 🔭 I'm Currently Working on Gen AI Use Cases
-- 🤝 Open to AI + Data Science project collaborations
+- 🤝 Open to AI + Data Science projects collaborations
 - 📚 Learning daily from failures & feedback
 - 💬 Ask me anything about AI, ML, Prompt Engineering
-
 ---
 
 ### 📬 Contact Me:
@@ -34,7 +30,7 @@
 <p align="center">
   📱 <b>+91 6399577058</b><br>
   📧 <b>contact.vipulbhatt@gmail.com</b><br>
-  📄 <a href="https://drive.google.com/file/d/1zXbYO6PZj52vLeiHYe-FxXzYnh4oTgUi/view?usp=sharing" target="_blank">Resume →</a>
+  📄 <a href="" target="_blank">Resume →</a>
 </p>
 
 
@@ -85,7 +81,7 @@
   <img src="https://img.shields.io/badge/Chainlit-4D4DFF?style=flat&logo=chainlit&logoColor=white"/> 
   <img src="https://img.shields.io/badge/DSPy-FF1493?style=flat&logo=data&logoColor=white"/> 
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Ollama-008080?style=flat&logo=ollama&logoColor=white"/>
 </p>
 
 
@@ -98,6 +94,5 @@
 </p>
 
 ---
-
 > 🚀 _"I don’t just code — I build intelligent experiences."_  
 > — *Vipul Bhatt*
