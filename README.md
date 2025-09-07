@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hey there, I'm <span style="color:#00BFFF">Vipul Bhatt</span> — </h1>
+<h1 align="center">🚀 Hey there, I'm <span style="color:#00BFFF">Vipul Bhatt </span> — </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vipul251&label=Profile%20views&color=0e75b6&style=flat" alt="vipul251" />
@@ -31,9 +31,12 @@
 
 ### 📬 Contact Me:
 
-📱 **+91 6399577058**  
-📧 **contact.vipulbhatt@gmail.com**  
-📄 [Resume →]
+<p align="center">
+  📱 <b>+91 6399577058</b><br>
+  📧 <b>contact.vipulbhatt@gmail.com</b><br>
+  📄 <a href="https://drive.google.com/file/d/1zXbYO6PZj52vLeiHYe-FxXzYnh4oTgUi/view?usp=sharing" target="_blank">Resume →</a>
+</p>
+
 
 ---
 
