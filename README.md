@@ -1,8 +1,10 @@
-<h1 align="center">🚀 Hey there, I'm <span style="color:#00BFFF">Vipul Bhatt - AI Engineer </span> — </h1>
+<h1 align="center">👋 Hello, I'm <span style="color:#00BFFF">Vipul Bhatt</span></h1>
+<h3 align="center">AI Engineer | Generative AI & Data Science Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vipul251&label=Profile%20views&color=0e75b6&style=flat" alt="vipul251" />
 </p>
+
 
 
 ---
