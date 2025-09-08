@@ -8,12 +8,11 @@
 ---
 
 ### 🧠 About Me:
-
-🔬 Currently exploring the frontiers of:
-
-🌟 GenAI & LLMs: LangChain, RAG, and Vector Databases (FAISS/Chroma)
-⚙️ MLOps & Deployments: FastAPI-based AI APIs, Docker, and scalable pipeline design
+🔬 Currently exploring the frontiers of:<br>
+🌟 GenAI & LLMs: LangChain, RAG, and Vector Databases (FAISS/Chroma)<br>
+⚙️ MLOps & Deployments: FastAPI-based AI APIs, Docker, and scalable pipeline design<br>
 📊 Data-Driven Decision Making for business and research applications
+
 
 ---
 ### 🤝 Let's Collaborate:
