@@ -33,24 +33,6 @@
 
 
 ---
-<! --
-### 🌐 Find Me Online:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/vipul-bhatt-aa068a21b" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/vipul_.bhatt" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/vipul_25" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/vipulllll" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
-  </a>
-</p>
--->
 ---
 
 ### 🛠 Tech Stack I Work With:
