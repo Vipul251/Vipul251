@@ -13,7 +13,7 @@ AI Engineer with hands-on experience in LLM fine-tuning and chatbot development.
 - 🌟 GenAI & LLMs: LangChain, RAG, and Vector Databases (FAISS/Chroma)  
 - ⚙️ MLOps & Deployments: FastAPI-based AI APIs, Docker, and scalable pipeline design  
 - 📊 Data-Driven Decision Making for business and research applications  
-- 🤖 Well versed in LLM fine-tuning and chatbot development for real-world use cases  
+- 🤖 Well versed in LLM fine-tuning and chatbot development for business workflows
 
 
 ---
