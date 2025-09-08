@@ -6,13 +6,14 @@
 </p>
 
 ### 🧠 About Me:
+I’m Vipul Bhatt, an AI Engineer with  hands-on experience in Generative AI, LLM fine-tuning, and chatbot development.  
+Passionate about transforming real-world challenges into intelligent, scalable solutions.
+
 🔬 Currently exploring the frontiers of:<br>
-🔬 Currently exploring the frontiers of:
 - 🌟 GenAI & LLMs: LangChain, RAG, and Vector Databases (FAISS/Chroma)  
 - ⚙️ MLOps & Deployments: FastAPI-based AI APIs, Docker, and scalable pipeline design  
 - 📊 Data-Driven Decision Making for business and research applications  
 - 🤖 Well versed in LLM fine-tuning and chatbot development for real-world use cases  
-
 
 
 ---
