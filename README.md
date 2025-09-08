@@ -7,7 +7,7 @@
 
 ### 🧠 About Me:
 
-AI Engineer with hands-on experience in LLM fine-tuning and chatbot development. Adept at bridging cutting-edge AI research with practical applications and passionate about transforming real-world challenges into intelligent, scalable solutions.
+AI Engineer with hands-on experience in LLM fine-tuning and chatbot development. Adept at bridging cutting-edge AI research with practical applications, and passionate about transforming real-world challenges into intelligent, scalable solutions.
 
 🔬 Currently exploring the frontiers of:<br>
 - 🌟 GenAI & LLMs: LangChain, RAG, and Vector Databases (FAISS/Chroma)  
