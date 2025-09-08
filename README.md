@@ -1,22 +1,19 @@
 <h1 align="center">👋 Hello, I'm <span style="color:#00BFFF">Vipul Bhatt</span></h1>
-<h3 align="center">AI Engineer | Generative AI & Data Science Enthusiast</h3>
+<h3 align="center">AI Engineer | Gen AI & Data Science Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vipul251&label=Profile%20views&color=0e75b6&style=flat" alt="vipul251" />
 </p>
 
-
-
 ---
 
 ### 🧠 About Me:
 
-🎯 AI Operations Engineer skilled in optimizing large-scale AI pipelines. Passionate about transforming real-world challenges into innovative, intelligent solutions using Generative AI and Data Science.
-
 🔬 Currently exploring the frontiers of:
-- 🌟 GenAI & LLMs (LangChain, RAG, Vector DBs)
-- ⚙️ MLOps & FastAPI-based AI API Deployments
-- 📊 Data-Driven Decision Making for business and research application
+
+🌟 GenAI & LLMs: LangChain, RAG, and Vector Databases (FAISS/Chroma)
+⚙️ MLOps & Deployments: FastAPI-based AI APIs, Docker, and scalable pipeline design
+📊 Data-Driven Decision Making for business and research applications
 
 ---
 ### 🤝 Let's Collaborate:
