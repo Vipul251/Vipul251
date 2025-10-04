@@ -15,16 +15,6 @@ AI Engineer with hands-on experience in LLM fine-tuning and chatbot development.
 - 📊 Data-Driven Decision Making for business and research applications  
 - 🤖 Well versed in LLM fine-tuning and chatbot development for business workflows
 
-
----
-### 🤝 Let's Collaborate:
-- 🤖 Working on Generative AI & Autonomous Agents (AI Agents)
-- 🔭 I'm Currently Working on Gen AI Use Cases
-- 🤝 Open to AI + Data Science projects collaborations
-- 📚 Learning daily from failures & feedback
-- 💬 Ask me anything about AI, ML, Prompt Engineering
----
-
 ### 📬 Contact Me:
 
 <p align="center">
@@ -76,5 +66,3 @@ AI Engineer with hands-on experience in LLM fine-tuning and chatbot development.
 </p>
 
 ---
-> 🚀 _"I don’t just code — I build intelligent experiences."_  
-> — *Vipul Bhatt*
