@@ -20,7 +20,7 @@ AI Engineer with hands-on experience in LLM fine-tuning and chatbot development.
 <p align="center">
   📱 <b>+91 6399577058</b><br>
   📧 <b>contact.vipulbhatt@gmail.com</b><br>
-  📄 <a href="" target="_blank">Resume →</a>
+  📄 <a href="" target="https://drive.google.com/file/d/17BV61dsM2v7OCd7GO4zfoNVlc_QPn27v/view?usp=sharing">Resume →</a>
 </p>
 
 
